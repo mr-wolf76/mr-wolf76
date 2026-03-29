@@ -1,11 +1,11 @@
 <!-- ================= TOP BANNER ================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00013a,100:071b4f&height=220&section=header&text=WOLF&fontSize=50&fontColor=ffffff&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00013a,100:071b4f&height=220&section=header&text=Mr.+WOLF&fontSize=50&fontColor=ffffff&fontAlignY=35" />
 </p>
 
 <!-- ================= TYPING ================= -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=900&color=E10600&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+WOLF;Founder+of+HelyTV.me;Free+Live+Streaming+Platform;Cricket+%26+Football+Streams" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=900&color=E10600&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Mr.+WOLF;Founder+of+HelyTV.me;Free+Live+Streaming+Platform;Cricket+%26+Football+Streams" />
 </p>
 
 ---
