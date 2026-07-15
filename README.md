@@ -13,7 +13,6 @@
 ## 👋 About Me
 
 🚀 Founder of **[HelyTV.me](https://www.helytv.me)**  
-🌐 Personal Website: **[khagesh.com.np](https://khagesh.com.np)**  
 
 🏏 I build **free live streaming platforms** for **Cricket & Football**  
 📡 Focused on delivering **simple, fast, and accessible streams**  
@@ -44,8 +43,7 @@
 ## 🌐 Featured Projects
 
 ### 🔴 Streaming Platforms
-- 🎥 **[HelyTV.me](https://www.helytv.me)** — Free Cricket & Football Streaming  
-- 📱 **[HelyTV App](https://github.com/khagesh-wolf/HelyTV.me-APP/releases/tag/1.0.0)** — Android Streaming App  
+- 🎥 **[HelyTV.me](https://www.helytv.com)** — Free Cricket & Football Streaming  
 - ⚡ **hely-stream-player** — Custom Video Player (Private)  
 
 ### 💻 Web Projects
@@ -64,19 +62,19 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=khagesh-wolf&show_icons=true&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=mr-wolf76&show_icons=true&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khagesh-wolf&theme=radical&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mr-wolf76&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khagesh-wolf&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mr-wolf76&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=khagesh-wolf&theme=react-dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mr-wolf76&theme=react-dark&hide_border=true" />
 </p>
 
 ---
@@ -97,22 +95,12 @@
 
 ---
 
-## 📲 Download My App
-
-<p align="center">
-  <a href="https://github.com/khagesh-wolf/HelyTV.me-APP/releases/tag/1.0.0">
-    <img src="https://img.shields.io/badge/Download-HelyTV_App-red?style=for-the-badge&logo=android" />
-  </a>
-</p>
-
----
-
 ## 📊 Profile Metrics
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=khagesh-wolf&label=Profile%20Views&color=red&style=flat" />
-  <img src="https://img.shields.io/github/followers/khagesh-wolf?label=Followers&style=flat&color=red" />
-  <img src="https://img.shields.io/github/stars/khagesh-wolf?label=Stars&style=flat&color=red" />
+  <img src="https://komarev.com/ghpvc/?username=mr-wolf76&label=Profile%20Views&color=red&style=flat" />
+  <img src="https://img.shields.io/github/followers/mr-wolf76?label=Followers&style=flat&color=red" />
+  <img src="https://img.shields.io/github/stars/mr-wolf76?label=Stars&style=flat&color=red" />
 </p>
 
 ---
